@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\semester 4\\KPL\\modul3_103022400111\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EF3A505-A621-4295-B356-DC191E27EB3A}|modul3_103022400111\\modul3_103022400111.csproj|d:\\semester 4\\kpl\\modul3_103022400111\\modul3_103022400111\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2EF3A505-A621-4295-B356-DC191E27EB3A}|modul3_103022400111\\modul3_103022400111.csproj|solutionrelative:modul3_103022400111\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D5E55DA8-05BE-4FF2-F190-1998DE710F56}|modul3_103022400111\\modul3_103022400111.csproj|d:\\semester 4\\kpl\\modul3_103022400111\\modul3_103022400111\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5E55DA8-05BE-4FF2-F190-1998DE710F56}|modul3_103022400111\\modul3_103022400111.csproj|solutionrelative:modul3_103022400111\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E55DA8-05BE-4FF2-F190-1998DE710F56}|modul3_103022400111\\modul3_103022400111.csproj|d:\\semester 4\\kpl\\modul3_103022400111\\modul3_103022400111\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E55DA8-05BE-4FF2-F190-1998DE710F56}|modul3_103022400111\\modul3_103022400111.csproj|solutionrelative:modul3_103022400111\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,16 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\semester 4\\KPL\\modul3_103022400111\\modul3_103022400111\\Form1.cs",
+              "RelativeDocumentMoniker": "modul3_103022400111\\Form1.cs",
+              "ToolTip": "D:\\semester 4\\KPL\\modul3_103022400111\\modul3_103022400111\\Form1.cs*",
+              "RelativeToolTip": "modul3_103022400111\\Form1.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T23:55:50.377Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\semester 4\\KPL\\modul3_103022400111\\modul3_103022400111\\Form1.cs",
               "RelativeDocumentMoniker": "modul3_103022400111\\Form1.cs",
-              "ToolTip": "D:\\semester 4\\KPL\\modul3_103022400111\\modul3_103022400111\\Form1.cs [Design]",
-              "RelativeToolTip": "modul3_103022400111\\Form1.cs [Design]",
+              "ToolTip": "D:\\semester 4\\KPL\\modul3_103022400111\\modul3_103022400111\\Form1.cs [Design]*",
+              "RelativeToolTip": "modul3_103022400111\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T23:47:13.193Z",
               "EditorCaption": " [Design]"
